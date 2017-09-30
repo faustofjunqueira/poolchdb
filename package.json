@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/faustofjunqueira/poolchdb/issues"
   },
-  "homepage": "https://github.com/faustofjunqueira/poolchdb#readme"
+  "homepage": "https://github.com/faustofjunqueira/poolchdb#readme",
+  "dependencies": {
+    "linkedlist": "^1.0.1"
+  }
 }

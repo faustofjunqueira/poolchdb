@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/faustofjunqueira/poolchdb#readme",
   "dependencies": {
-    "linkedlist": "^1.0.1"
+    "linkedlist": "^1.0.1",
+    "lodash": "^4.17.4",
+    "pouchdb": "^6.3.4"
   }
 }
